@@ -9,6 +9,12 @@ public class HelloWorld {
         return "Hello " + name;
     }
 
+
+    public  void  vineet()
+    {
+        System.out.println("vineet");
+    }
+
     public void hello()
     {
         System.out.println("hello");
